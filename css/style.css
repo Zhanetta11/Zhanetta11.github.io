@@ -1,0 +1,40 @@
+/* font-family: 'Dancing Script', cursive; */
+/* font-family: 'Diphylleia', serif; */
+img {
+    display: inline-flex;
+    margin: 20px 70px 20px 20px;
+}
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+
+h3, h3 {
+    font-family: 'Diphylleia', serif;
+
+}
+.big-p {
+    line-height: 2;
+    margin: 15px;
+    border: 1px dashed black;
+    padding: 20px;
+}
+
+.small-p {
+    line-height: 2;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+html {
+    background-color:rgb(156, 194, 241);
+}
+
+body {
+    border: 1px solid black;
+    margin: auto;
+    background-color:rgb(237, 242, 191);
+    width: 900px;
+    padding: 30px;
+}
